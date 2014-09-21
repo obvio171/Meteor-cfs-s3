@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'cfs:s3',
+  name: 'obvio171:s3',
   version: '0.0.0',
   summary: "Amazon Web Services S3 storage adapter for CollectionFS"
 });
